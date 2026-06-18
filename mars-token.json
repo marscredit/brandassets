@@ -1,24 +1,28 @@
 {
   "name": "Mars Credit",
   "symbol": "MARS",
-  "description": "Mars Credit (MARS) is the native token of the Mars Credit ecosystem, bridging L1 and Solana networks for seamless DeFi experiences.",
+  "description": "Mars Credit (MARS) is the native currency of the Mars Credit chain, an Ethash proof-of-work, EVM-compatible Layer 1 (chain ID 110110).",
   "image": "https://raw.githubusercontent.com/marscredit/brandassets/refs/heads/main/marscredit_square_solid.png",
   "attributes": [
     {
       "trait_type": "Network",
-      "value": "Multi-chain"
+      "value": "Mars Credit (L1)"
+    },
+    {
+      "trait_type": "Chain ID",
+      "value": 110110
     },
     {
       "trait_type": "Type",
-      "value": "Utility Token"
+      "value": "Native Currency"
     },
     {
       "trait_type": "Decimals",
-      "value": 9
+      "value": 18
     },
     {
-      "trait_type": "Bridge Enabled",
-      "value": "Yes"
+      "trait_type": "Consensus",
+      "value": "Ethash PoW"
     }
   ],
   "properties": {
